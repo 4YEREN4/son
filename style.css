@@ -1,0 +1,36 @@
+html{
+    color: coral;
+    background-color: ivory;
+}
+
+img{
+    width: 300px; 
+    border: 5px solid;
+
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: darkslategrey;
+}
+
+div{
+    text-align: center;;
+}
+
+h3{
+    background-color: ivory;
+    color: limegreen;
+}
+#ondört{
+    color: yellow;
+    background-color: blue;
+}
+
+#link{
+    text-align: center;
+}
